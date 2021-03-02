@@ -3,3 +3,4 @@
 examples/data
 examples/plots
 __pycache__
+*.egg-info

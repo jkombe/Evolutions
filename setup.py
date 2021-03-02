@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-	name='evolution',
+	name='exactdiagonalisation',
 	version='0.1',
 	install_requires=['numpy>=1.17',
 					  'scipy>=1.3.1',
@@ -10,7 +10,7 @@ setup(
 	author='Johannes Kombe',
 	description=('Time evoution using exact diagonalisation for quantum systems'),
 	license='MIT',
-	packages=['evolution'],
+	packages=['exactdiagonalisation'],
 	classifiers=[
 		'Intended Audience :: Science/Research',
 		'License :: MIT License',
